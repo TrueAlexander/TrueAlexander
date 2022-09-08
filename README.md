@@ -1,7 +1,8 @@
 ### Hi there 👋
-My name is Alex. I am Front-End Developer.
+
 
 <div style="display: inline_block"><br>
+  My name is Alex. I am Front-End Developer.
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,8 +28,8 @@ My name is Alex. I am Front-End Developer.
    <a href="https://www.linkedin.com/in/linkedin.com/in/alexander-shliakhov-a954b6198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
- 
+<!-- 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ -->
 </div>
 
